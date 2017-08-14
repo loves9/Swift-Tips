@@ -38,5 +38,14 @@ default:
 # 3.swift支持相同方法名（不同类中），但是参数个数一定不同
 不支持完全相同的函数（方法名和参数个数完全相同）
 
+# 4.Default Parameter Values
+```swift
+func someFunction(parameterWithoutDefault: Int, parameterWithDefault: Int = 12) {
+    // If you omit the second argument when calling this function, then
+    // the value of parameterWithDefault is 12 inside the function body.
+}
+someFunction(parameterWithoutDefault: 3, parameterWithDefault: 6) // parameterWithDefault is 6
+someFunction(parameterWithoutDefault: 4) // parameterWithDefault is 12
+```
 
 
