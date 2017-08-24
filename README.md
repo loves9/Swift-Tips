@@ -5,4 +5,4 @@
 
 [The Basics](https://github.com/loves9/Swift-Tips/blob/master/TheBasics.md)
 
-[Chapter-7 Enumerations](https://github.com/loves9/Swift-Tips/blob/master/Enumerations.md)
+Chapter-7 [Enumerations](https://github.com/loves9/Swift-Tips/blob/master/Enumerations.md)
