@@ -3,6 +3,6 @@
 
 以下章节需要读者有其它语言基础（java、OC、C等）
 
-[The Basics](https://github.com/loves9/Swift-Tips/blob/master/TheBasics.md)
+0.[The Basics](https://github.com/loves9/Swift-Tips/blob/master/TheBasics.md)
 
-Chapter-7 [Enumerations](https://github.com/loves9/Swift-Tips/blob/master/Enumerations.md)
+7.[Enumerations](https://github.com/loves9/Swift-Tips/blob/master/Enumerations.md)
