@@ -13,4 +13,13 @@ Classes have additional capabilities that structures do not:
 - Deinitializers enable an instance of a class to free up any resources it has assigned.
 - Reference counting allows more than one reference to a class instance.
 
+# 2.判断是否为同一引用
+```swift
+let tenEighty = VideoMode()
+let alsoTenEighty = tenEighty
 
+if tenEighty === alsoTenEighty {
+    print("tenEighty and alsoTenEighty refer to the same VideoMode instance.")
+}
+// Prints "tenEighty and alsoTenEighty refer to the same VideoMode instance."
+```
