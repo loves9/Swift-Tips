@@ -5,10 +5,30 @@
 
 0.[The Basics](https://github.com/loves9/Swift-Tips/blob/master/TheBasics.md)
 
+1.Basic Operators
+
+2.Strings and Characters
+
+3.Collection Types
+
+4.Control Flow
+
+5.Functions
+
+6.Closures
+
 7.[Enumerations](https://github.com/loves9/Swift-Tips/blob/master/Enumerations.md)
 
 8.[Classes and Structures](https://github.com/loves9/Swift-Tips/blob/master/ClassesAndStructures.md)
 
 9.[Properties](https://github.com/loves9/Swift-Tips/blob/master/Properties.md)
 
+10.Methods
+
 11.[Subscripts](https://github.com/loves9/Swift-Tips/blob/master/Subscripts.md)
+
+12.Inheritance
+
+13.Initialization
+
+14.Deinitialization
