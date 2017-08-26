@@ -27,7 +27,7 @@
 
 11.[Subscripts](https://github.com/loves9/Swift-Tips/blob/master/Subscripts.md)
 
-12.Inheritance
+12.[Inheritance](https://github.com/loves9/Swift-Tips/blob/master/Inheritance.md)
 
 13.Initialization
 
