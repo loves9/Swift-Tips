@@ -11,4 +11,4 @@
 
 9.[Properties](https://github.com/loves9/Swift-Tips/blob/master/Properties.md)
 
-9.[Subscripts](https://github.com/loves9/Swift-Tips/blob/master/Subscripts.md)
+11.[Subscripts](https://github.com/loves9/Swift-Tips/blob/master/Subscripts.md)
