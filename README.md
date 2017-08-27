@@ -32,3 +32,23 @@
 13.[Initialization](https://github.com/loves9/Swift-Tips/blob/master/Initialization.md)
 
 14.Deinitialization
+
+15.Automatic Reference Counting
+
+16.Optional Chaining
+
+17.Error Handling
+
+18.Type Casting
+
+19.Nested Types
+
+20.Extensions
+
+21.Protocols
+
+22.Generics
+
+23.Access Control
+
+24.Advanced Operators
