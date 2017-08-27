@@ -33,7 +33,7 @@
 
 14.Deinitialization
 
-15.Automatic Reference Counting
+15.[Automatic Reference Counting](https://github.com/loves9/Swift-Tips/blob/master/AutomaticReferenceCounting.md)
 
 16.Optional Chaining
 
