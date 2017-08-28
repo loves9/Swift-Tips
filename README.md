@@ -43,9 +43,9 @@
 
 19.Nested Types
 
-20.Extensions
+20.[Extensions](https://github.com/loves9/Swift-Tips/blob/master/Extensions.md)
 
-21.Protocols
+21.[Protocols](https://github.com/loves9/Swift-Tips/blob/master/Protocols.md)
 
 22.Generics
 
