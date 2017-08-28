@@ -45,7 +45,7 @@
 
 20.[Extensions](https://github.com/loves9/Swift-Tips/blob/master/Extensions.md)
 
-21.[Protocols](https://github.com/loves9/Swift-Tips/blob/master/Protocols.md)
+21.[Protocols](https://github.com/loves9/Swift-Tips/blob/master/Protocol.md)
 
 22.Generics
 
