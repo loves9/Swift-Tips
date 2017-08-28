@@ -39,7 +39,7 @@
 
 17.Error Handling
 
-18.Type Casting
+18.[Type Casting](https://github.com/loves9/Swift-Tips/blob/master/TypeCast.md)
 
 19.Nested Types
 
