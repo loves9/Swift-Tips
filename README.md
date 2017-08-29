@@ -47,7 +47,7 @@
 
 21.[Protocols](https://github.com/loves9/Swift-Tips/blob/master/Protocol.md)
 
-22.Generics
+22.[Generics](https://github.com/loves9/Swift-Tips/blob/master/Generic.md)
 
 23.Access Control
 
